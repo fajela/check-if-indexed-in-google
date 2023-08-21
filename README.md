@@ -20,7 +20,7 @@ This script allows you to check the indexed status of a list of URLs using Googl
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/repo-name.git
+   git clone https://github.com/fajela/check-if-indexed-in-google.git
 2. Install the required dependencies:
    ```bash
    pip install pandas google-auth google-auth-oauthlib google-auth-httplib2 google-api-python-client   
